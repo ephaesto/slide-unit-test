@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"name": "✨ slide-unit-test",
+			"path": "."
+		},
+		{
+			"name": "🚀 presdeck",
+			"path": "apps/presdeck"
+		},
+		{
+			"name": "🚀 slides",
+			"path": "apps/slides"
+		},
+		{
+			"name": "📦 components",
+			"path": "packages/components"
+		},
+		{
+			"name": "📦 functions",
+			"path": "packages/functions"
+		}
+	],
+	"settings": {}
+}
